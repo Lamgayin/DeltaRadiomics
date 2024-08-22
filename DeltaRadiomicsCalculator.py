@@ -51,7 +51,7 @@ class DeltaRadiomicsCalculator:
 
 # Example
 # excel columns
-  id,features_cols...
+# id,features_cols...
 
 # pre_file_path = r'Feature_pre.xlsx'
 # post_file_path = r'Feature_post.xlsx'
